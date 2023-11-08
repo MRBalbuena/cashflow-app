@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cashflow-app", "cashflow-app.csproj", "{241DD96E-7FC0-4B74-8F75-D56067668F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241DD96E-7FC0-4B74-8F75-D56067668F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241DD96E-7FC0-4B74-8F75-D56067668F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241DD96E-7FC0-4B74-8F75-D56067668F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241DD96E-7FC0-4B74-8F75-D56067668F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA6C6FE-0D73-4EC7-8322-01636E182EFC}
+	EndGlobalSection
+EndGlobal
